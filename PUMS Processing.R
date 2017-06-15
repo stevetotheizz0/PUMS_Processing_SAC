@@ -5,7 +5,7 @@ dev.off()
 options(scipen = 999)
 
 library(easypackages)
-libraries("foreign", "plyr", "dplyr")
+libraries("plyr", "dplyr")
 
 #Request and download data from https://usa.ipums.org
 

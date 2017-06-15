@@ -21,8 +21,13 @@ over the next 20 years.
 
 You will have to have R and R Studio installed, as well as all of the listed packages.
 
+Packages used: easypackages, plyr, dplyr
+R ver 3.3.2
+R Studio ver. 1.0.136
 
-#Contributors
+And an account with https://usa.ipums.org to download the data.
+
+# Contributors
 
 Twitter:
 @stephenskilton
