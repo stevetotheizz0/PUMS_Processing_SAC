@@ -27,7 +27,7 @@ R Studio ver. 1.0.136
 
 And an account with https://usa.ipums.org to download the data.
 
-# Contributors
+### Contributors
 
 Twitter:
 @stephenskilton
